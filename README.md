@@ -7,6 +7,6 @@ In this challenge, a visualization of the United States Geological Service (USGS
 - A legend provides context for the map's data.
 3. The tectonic plates dataset was added to the base map. 
 
-Below is a screenshot of the resulting map.
+Below is a partial view of the resulting map.
 
-![My Image](screenshot.PNG)
+![My Image](screenshot2.PNG)
