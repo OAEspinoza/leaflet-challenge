@@ -1,0 +1,18 @@
+/* Remove the default margin and padding from the body. */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Set map, body, and html to 100% of the screen size. */
+#map,
+body,
+html {
+  height: 100%;
+}
+.legend{
+  background-color: white;
+  padding: 10px;
+  color: black;
+  font-size: large;
+}
