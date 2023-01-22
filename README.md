@@ -9,4 +9,4 @@ In this challenge, a visualization of the United States Geological Service (USGS
 
 Below is a screenshot of the resulting map.
 
-![My Image](screenshot.png)
+![My Image](screenshot.PNG)
